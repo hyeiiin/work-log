@@ -18,7 +18,7 @@ cd existing_repo
 git remote add origin https://lab.ssafy.com/haeinsuin/0207.git
 git branch -M master
 git push -uf origin master
-```
+```   
 
 ## Integrate with your tools
 
